@@ -33,13 +33,13 @@
     }
   ],
   "require": {
+    "ext-curl": "@stable",
     "php": "@stable",
-    "guzzle/psr7": "@stable2",
-    "pubnub/pubnub": "@stable2",
+    "guzzle/psr7": "@stable",
+    "pubnub/pubnub": "@stable",
     "symfony/event-dispatcher": "@stable"
   },
   "require-dev": {
-    "ext-curl": "*",
     "phpunit/phpunit": "*",
     "satooshi/php-coveralls": "dev-master"
   },
