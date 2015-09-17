@@ -34,9 +34,9 @@
   ],
   "require": {
     "php": ">=5.3.29",
-    "guzzle/psr7": "1.2.0",
-    "pubnub/pubnub": "3.7.9",
-    "symfony/event-dispatcher": "2.7.4"
+    "guzzle/psr7": "@stable",
+    "pubnub/pubnub": "@stable",
+    "symfony/event-dispatcher": "@stable"
   },
   "require-dev": {
     "ext-curl": "*",
