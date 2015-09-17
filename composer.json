@@ -33,7 +33,7 @@
     }
   ],
   "require": {
-    "php": ">=5.3.29",
+    "php": "@stable",
     "guzzle/psr7": "@stable",
     "pubnub/pubnub": "@stable",
     "symfony/event-dispatcher": "@stable"
