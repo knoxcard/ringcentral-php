@@ -34,8 +34,8 @@
   ],
   "require": {
     "php": "@stable",
-    "guzzle/psr7": "@stable",
-    "pubnub/pubnub": "@stable",
+    "guzzle/psr7": "@stable2",
+    "pubnub/pubnub": "@stable2",
     "symfony/event-dispatcher": "@stable"
   },
   "require-dev": {
