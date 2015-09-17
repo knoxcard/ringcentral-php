@@ -43,6 +43,13 @@
     "phpunit/phpunit": "*",
     "satooshi/php-coveralls": "dev-master"
   },
+  "require-stable": {
+    "ext-curl": "*",
+    "php": ">=5.3.29",
+    "guzzle/psr7": "1.2.0",
+    "pubnub/pubnub": "~3.7",
+    "symfony/event-dispatcher": "^2.7"
+  },
   "autoload": {
     "psr-4": {
       "RingCentral\\SDK\\": "src/"
